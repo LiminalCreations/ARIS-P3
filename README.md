@@ -5,3 +5,5 @@ ARIS is an NSF-funded center for "Advancing Research Impacts in Society". In 202
 3. tactical dimensions of information transfer. 
 
 We are calling this framework **P3 = PEOPLE, Products, and Pathways**. The term “PEOPLE” doubles in meaning here as an acronym for _Points of Engagement Or Points for Leveraging Engagement_.
+
+We aim to develop and implement a soft communication infrastructure for team science that could be used by individuals, teams, and even organizations. 
