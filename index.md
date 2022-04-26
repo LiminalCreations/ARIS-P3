@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Engaging People - Advancing Research Impacts in Society-ARIS Fellowship
 
 You can use the [editor on GitHub](https://github.com/LiminalCreations/ARIS-P3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
