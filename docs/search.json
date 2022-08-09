@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Content Creators",
     "section": "",
-    "text": "This workshop was created and facilitated by a dynamic team that is here to assist you before, during, and after your attendance at the workshop! To learn a bit more about us, see our bios and relevant links below."
+    "text": "ARIS is an NSF-funded center for “Advancing Research Impacts in Society”. In January 2022, Liz Neeley and Francisco Guerrero were awarded an ARIS Fellowship to develop an ambitious project that brings together: relational aspects of community building, strategic aspects of engagement, and tactical dimensions of information transfer."
   },
   {
     "objectID": "about.html#gabe-de-la-rosa",
@@ -33,5 +33,12 @@
     "title": "Overview",
     "section": "",
     "text": "Welcome to the 2022 All Scientists’ Meeting workshop “Shiny Apps for Sharing Science”! We are excited to have you with us for this training whether you are a veteran R Shiny user or this is your first foray into the world of Shiny! The link to the workshop schedule in Sched (ASM’s scheduling site) is included here.\n\nWe will be demonstrating the fundamentals of R Shiny using RStudio today so we suggest that you download R and download RStudio before the workshop. If your current RStudio version (see “About RStudio” in the top menubar) begins with anything earlier than “2020…”, we recommend updating RStudio. If your R version begins with anything other than “4…” we recommend you update R. These steps ensure that all R packages will behave as expected and we know where any needed RStudio buttons are on your machine if you require assistance.\n\n\nWe aim to make this training fun and interactive so please reach out if you have any questions before, during, or after this workshop! Our contact information is listed below:\nGabe De La Rosa: delarosa@nceas.ucsb.edu\nFrancisco J. Guerrero: francisco.guerrero@pnnl.gov\nNick J Lyon: lyon@nceas.ucsb.edu"
+  },
+  {
+    "objectID": "about.html#liz-neeley",
+    "href": "about.html#liz-neeley",
+    "title": "Content Creators",
+    "section": "Liz Neeley",
+    "text": "Liz Neeley\nlizneeley.com –  LiminalCreations –  @LizNeeley – LizNeeleyYong@gmail.com\n\nGabe is the Digital Communications Coordinator for the Long-Term Ecological Research Network. He learned R Shiny as a masters student at UCSB’s Bren School of Environmental Science and Management, and most recently built a shiny app that displays an interactive map of LTER sites. …"
   }
 ]

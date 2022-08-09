@@ -2,13 +2,13 @@
 title: "Content Creators"
 ---
 
-This workshop was created and facilitated by a dynamic team that is here to assist you before, during, and after your attendance at the workshop! To learn a bit more about us, see our bios and relevant links below.
+ARIS is an NSF-funded center for "Advancing Research Impacts in Society". In January 2022, Liz Neeley and Francisco Guerrero were awarded an ARIS Fellowship to develop an ambitious project that brings together: relational aspects of community building, strategic aspects of engagement, and tactical dimensions of information transfer.
 
-## Gabe De La Rosa
+## Liz Neeley
 
-[gabrieldelarosa.com](https://www.gabrieldelarosa.com/) -- <img src="images/github-logo.png" width="2%"/> [gdlr.github.io](https://github.com/gdlr) -- <img src="images/twitter-logo.png" width="2%"/> [\@gabe_de_la](https://twitter.com/gabe_de_la) -- **delarosa\@nceas.ucsb.edu**
+[lizneeley.com](https://www.lizneeley.com/) -- <img src="images/github-logo.png" width="2%"/> [LiminalCreations](https://github.com/LiminalCreations) -- <img src="images/twitter-logo.png" width="2%"/> [\@LizNeeley](https://twitter.com/lizneeley?lang=en) -- **LizNeeleyYong@gmail.com**
 
-<img src="images/gd.jpg" align="right" width="23%"/>
+<img src="images/lneeley.png" align="right" width="23%"/>
 
 Gabe is the Digital Communications Coordinator for the Long-Term Ecological Research Network. He learned R Shiny as a masters student at UCSB's Bren School of Environmental Science and Management, and most recently built a shiny app that displays an [interactive map of LTER sites](hyyp://lternet.edu/sites). ...
 
@@ -21,10 +21,3 @@ Gabe is the Digital Communications Coordinator for the Long-Term Ecological Rese
 Francisco J. Guerrero is the Science and Communication Research Associate for the Integrated, Coordinated, Open, and Networked-[ICON](https://www.pnnl.gov/projects/icon-science) Science Cooperative at PNNL. He is a watershed ecologist and a science communicator. 
 since 2004, Francisco has been studying land to ocean carbon fluxes in small mountainous river systems. In his parallel role as communicator (since 2014), he has designed and implemented communication infrastructure (workshops, panels, working groups facilitation, etc.) at research-driven organizations from regional to national levels (e.g. universities, state agencies, and national research centers). Currently, Francisco is creating workflows for scientists and knowledge workers to integrate strategic communication tools along the scientific production lifecycle (from ideation to publication).
 
-## Nick J Lyon
-
-[njlyon0.github.io](https://njlyon0.github.io/) -- <img src="images/github-logo.png" width="2%"/> [njlyon0](https://github.com/njlyon0) -- <img src="images/twitter-logo.png" width="2%"/> [\@scilyon](https://twitter.com/scilyon) -- **lyon\@nceas.ucsb.edu**
-
-<img src="images/nlyon.png" align="right" width="23%"/>
-
-Nick is a member of the Scientific Computing Support Team at NCEAS. He learned R Shiny in order to build the [Herbivory Variability Network](https://herbvar.org/)'s [data submission portal](https://herbvar.shinyapps.io/data_portal_actual/) (<img src="images/github-logo.png" width="2%"/> [repository linked here](https://github.com/HerbVar-Network/Data-Portal)) but has since gained a broader appreciation for the value of Shiny apps in supporting many aspects of data visualization and wrangling. In particular, Nick recently developed a [Shiny app](https://cosima.nceas.ucsb.edu/lterpalettefinder-shiny/) to allow non-R users to explore his `lterpalettefinder` R package without needing to "speak" R (<img src="images/github-logo.png" width="2%"/> [repository linked here](https://github.com/lter/lterpalettefinder-shiny)). Nick completed his M.Sc. in Ecology and Evolutionary Biology at Iowa State University.
